@@ -66,3 +66,15 @@ let &guicursor = &guicursor . ",a:blinkon0"
 " show line number
 set nu
 
+" Configure the encoding scheme
+set encoding=utf-8
+set fileencoding=utf-8
+
+" Configure the indent scheme
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set autoindent
+set cindent
+set expandtab
+
