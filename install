@@ -1,5 +1,5 @@
 #!/bin/sh
 # install /etc/vimrc
 
-cp ./my_vimrc /etc/vimrc -rf
+cp ./common_vimrc /etc/vimrc -rf
 
